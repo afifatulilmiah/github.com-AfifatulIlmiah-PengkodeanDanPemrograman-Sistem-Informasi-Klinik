@@ -6,6 +6,9 @@ Instalation
 2. Configure koneksi.php dengan database Anda
 3. Import klinik_medika.sql (File twrdapat di folder database) ke database Anda
 
+# Referensi
+https://github.com/iandzillan/SI-Klinik/tree/main/database
+
 # Info Login
 - Username: admin
 - Password: admin
@@ -22,7 +25,7 @@ Instalation
 2. Dashboard
 - perbedaannya terdapat pada keterangan dashboard yang awal mula 'Dashboard' diubah menjadi 'Halaman Utama'
 - warna background diubah menjadi warna biru muda
-- Tampilan nama admin posisinya diubah di sebelah kiri dan tampilan logout diubah memanjang
+- Nama admin pada tiap menu posisinya diubah di sebelah kiri dan tampilan logout diubah memanjang
 - Terdapat foto profil
   
 ![dashboard](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/527751bf-dd11-4ebe-8e70-60f20f3e5aff)
@@ -33,3 +36,5 @@ Instalation
 
 # Tampilan ERD
 ![erd_si_klinik](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/45760690-a241-45f8-b819-bae1840e42ab)
+
+
