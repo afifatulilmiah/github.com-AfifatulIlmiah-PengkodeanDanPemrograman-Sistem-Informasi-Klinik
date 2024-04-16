@@ -37,4 +37,4 @@ https://github.com/iandzillan/SI-Klinik/tree/main/database
 # Tampilan ERD
 ![erd_si_klinik](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/45760690-a241-45f8-b819-bae1840e42ab)
 
-
+[ERD SISTEM INFORMASI KLINIK AFI.pdf](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/files/15003831/ERD.SISTEM.INFORMASI.KLINIK.AFI.pdf)
