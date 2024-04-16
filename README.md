@@ -12,7 +12,7 @@ Instalation
 
 # Salah Satu dari Perbedaan yang Ada:
 1. Salah satu tampilan master data
-Data pegawai
+   - Data pegawai
 ![tampilan_data_pegawai](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/303c16ea-9d2e-4edd-b2a9-3fc67712a6dd)
 
 ![tampilan_data_pegawai_setelah_diubah](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/351f2443-4a52-419a-bed0-fedaa026e1b4)
