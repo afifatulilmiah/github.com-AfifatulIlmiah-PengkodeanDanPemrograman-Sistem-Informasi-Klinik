@@ -12,8 +12,9 @@ Password: admin
 
 # Salah Satu dari Perbedaan yang Ada:
 1. Dashboard
-(assets/img/dashboard.png)
-(assets/img/dashboard_setelah_diubah.png)
+![dashboard](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/527751bf-dd11-4ebe-8e70-60f20f3e5aff)
+![dashboard_setelah_diubah](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/971ad98f-c482-4ad9-893b-442698ef3b81)
+
 
 2. Salah satu tampilan dari Master Data
 Data Pegawai
