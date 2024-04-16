@@ -3,8 +3,8 @@ Aplikasi sistem informasi klinik sederhana menggunakan PHP native. Versi php yan
 
 Instalation
 1. Donwload project
-2. Configure koneksi.php with your database
-3. Import klinik_medika.sql (The file is in the database folder) to your database
+2. Configure koneksi.php dengan database Anda
+3. Import klinik_medika.sql (File twrdapat di folder database) ke database Anda
 
 # Info Login
 - Username: admin
@@ -24,4 +24,4 @@ Data pegawai
 
 
 # Tampilan ERD
-(assets/img/erd_si_klinik.png)
+![erd_si_klinik](https://github.com/afifatulilmiah/github.com-AfifatulIlmiah-PengkodeanDanPemrograman-Sistem-Informasi-Klinik/assets/167254836/45760690-a241-45f8-b819-bae1840e42ab)
